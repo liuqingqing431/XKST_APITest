@@ -1,0 +1,15 @@
+{
+  "user": {"token":"d4e9ab77459ed4dec5b233beecd903c3", "Content-Type":"application/json;charset=UTF-8", "Version":"2.0.0", "Device-Type":"1"},
+  "code":{"code": "","sourceType": 1},
+  "page":{"pageSize": 10, "pageNumber": 1, "tesCategoryId": 30, "isVip": 1},
+  "category's_project":{"categoryId":10, "categoryName":"研究生", "projectId":145, "projectName":"管理类硕士"},
+  "exam_page":{"pageSize": 10, "pageNumber": 1, "tesCategoryId": 10, "tesProjectId": null, "provinceId": null},
+  "resume_save":{"sex":1,"nativeProvinceId":"48","nativeProvinceName":"北京市","nativeCityId":"10000","nativeCityName":"北京市","nativeCountyId":"35001","nativeCountyName":"西城区","politicsFace":1,"ethnicGroupId":"40001","ethnicGroupName":"汉族","birthDate":"1953-01-22","specialIdentity":1,"sourceType":1},
+  "buy-record-add":{"phoneList": ["18810536608"], "token":"5e36973f7a4044a9"},
+  "buy-record-del":{"phoneList": ["18810536608"], "token":"f0af621207e040c2"},
+  "course_page":{"pageNumber": 1, "pageSize": 10},
+  "courseId": {"courseId":105},
+  "children":{"parentCodeLike": "root_for_dict_tree_country_china"},
+  "url":{"url":"http://files.offcn.com/2021/0710/%E5%BE%B7%E5%AE%8F%E5%B7%9E%E6%B3%95%E9%99%A2%E7%B3%BB%E7%BB%9F%E6%8B%9F%E5%BD%95%E7%94%A8%E4%BA%BA%E5%91%98%E5%90%8D%E5%8D%95a.docx"},
+  "contentText":{"contentText":"测试"}
+}
